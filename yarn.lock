@@ -5,10 +5,10 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@firanorg/scaling-goggles@npm:^1.0.1, @firanorg/scaling-goggles@workspace:.":
+"@firanorg/scaling-goggles@npm:^1.0.2, @firanorg/scaling-goggles@workspace:.":
   version: 0.0.0-use.local
   resolution: "@firanorg/scaling-goggles@workspace:."
   dependencies:
-    "@firanorg/scaling-goggles": "npm:^1.0.1"
+    "@firanorg/scaling-goggles": "npm:^1.0.2"
   languageName: unknown
   linkType: soft
