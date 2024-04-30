@@ -5,10 +5,19 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@firanorg/scaling-goggles@npm:^1.1.4, @firanorg/scaling-goggles@workspace:.":
+"@firanorg/scaling-goggles@npm:^1.1.4, @firanorg/scaling-goggles@npm:^1.1.5":
+  version: 1.1.5
+  resolution: "@firanorg/scaling-goggles@npm:1.1.5"
+  dependencies:
+    "@firanorg/scaling-goggles": "npm:^1.1.4"
+  checksum: 10c0/f3eec3c706ff6e001b7c9552c98803ae0402e7417becc58281129106e9a5c1d56f878a7b155cbed286ac218e0bcf7160d4742145f0a55bbf4dda467d5a8ff6d8
+  languageName: node
+  linkType: hard
+
+"@firanorg/scaling-goggles@workspace:.":
   version: 0.0.0-use.local
   resolution: "@firanorg/scaling-goggles@workspace:."
   dependencies:
-    "@firanorg/scaling-goggles": "npm:^1.1.4"
+    "@firanorg/scaling-goggles": "npm:^1.1.5"
   languageName: unknown
   linkType: soft
