@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/scaling-goggles",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -312,6 +312,6 @@
   },
   "packageManager": "yarn@4.1.1",
   "dependencies": {
-    "@firanorg/scaling-goggles": "^2.1.5"
+    "@firanorg/scaling-goggles": "^2.1.6"
   }
 }
