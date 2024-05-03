@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/scaling-goggles",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -310,8 +310,14 @@
   "bugs": {
     "url": "https://github.com/firanorg/scaling-goggles/issues"
   },
-  "packageManager": "yarn@4.1.1",
+  "packageManager": "yarn@4.2.1",
   "dependencies": {
-    "@firanorg/scaling-goggles": "^2.1.6"
+    "@firanorg/scaling-goggles": "^2.1.6",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   }
 }
