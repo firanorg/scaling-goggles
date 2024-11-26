@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/scaling-goggles",
-  "version": "6.20.178",
+  "version": "6.21.178",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -310,7 +310,7 @@
   "bugs": {
     "url": "https://github.com/firanorg/scaling-goggles/issues"
   },
-  "packageManager": "yarn@4.5.2",
+  "packageManager": "yarn@4.5.3",
   "dependencies": {
     "@firanorg/scaling-goggles": "^2.1.6",
     "corcojs-qrcode": "^1.0.0",
